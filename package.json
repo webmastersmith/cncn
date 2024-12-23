@@ -1,6 +1,7 @@
 {
   "name": "cncn",
   "version": "1.0.0",
+  "description": "Resolve multiple and dynamic class names.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.cts",
@@ -27,10 +28,17 @@
     "pretest": "npm run build",
     "test": "node ./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "tailwind-merge",
+    "clsx",
+    "resolve",
+    "class name",
+    "class"
+  ],
+  "author": "Bryon Smith",
+  "license": "Apache-2.0",
   "dependencies": {
     "clsx": "^2.1.1",
     "tailwind-merge": "^2.5.5"
