@@ -1,6 +1,6 @@
 {
   "name": "cncn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Resolve multiple and dynamic class names.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
