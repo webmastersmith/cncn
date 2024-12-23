@@ -1,7 +1,7 @@
 # cncn
 
 - Tailwind-Merge and CLSX NPM shortcut.
-- `npm i cncn`
+- [NPM CNCN](https://www.npmjs.com/package/cncn)
 
 ```js
 // Download
