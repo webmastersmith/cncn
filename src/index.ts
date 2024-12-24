@@ -11,3 +11,6 @@ import { twMerge } from 'tailwind-merge';
 export default function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs)); // inputs must b
 }
+
+export type CN = typeof cn;
+export type CV = ClassValue;
